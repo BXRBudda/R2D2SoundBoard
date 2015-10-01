@@ -1,8 +1,10 @@
-android-Soundboard
+R2D2Soundboard
 ================
-A simple soundboard application for Android
+A simple soundboard R2D2 application for Android, based on Caleb Sabatini's "android-SoundBoard" app. 
 
-![android-Soundboard Screenshot](http://i.imgur.com/eTKxZdX.png)
+Here's a link to his repo.
+
+https://github.com/csabatini/android-Soundboard
 
 Usage
 ----
