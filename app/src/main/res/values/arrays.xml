@@ -2,11 +2,20 @@
 <resources>
     <string-array name="labels">
         <item>Yep</item>
+        <item>Whistle</item>
+        <item>Alarm</item>
+        <item>BeepBoop</item>
+        <item>Impressed</item>
+        <item>WEEOOW</item>
 
     </string-array>
 
     <integer-array name="ids">
         <item>@raw/affirmative</item>
-
+        <item>@raw/whistle</item>
+        <item>@raw/alarmreverb</item>
+        <item>@raw/beepwhistle</item>
+        <item>@raw/wowandwhistle</item>
+        <item>@raw/weow</item>
     </integer-array>
 </resources>
